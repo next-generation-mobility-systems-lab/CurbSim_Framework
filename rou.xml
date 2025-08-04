@@ -1,0 +1,11 @@
+<routes>
+    <vType id="PARK" vClass="passenger" guiShape="passenger" color="red" minGap="2.5" accel="2.6" decel="4.5"
+           maxSpeed="13.89" speedFactor="norm(1,0.1)" carFollowModel="IDM" sigma="0.5" lcModel="MOBIL"
+           lcCooperative="1.0" lcKeepRight="0.2"/>
+    <vType id="PUDO" vClass="passenger" guiShape="passenger" color="blue" minGap="2.5" accel="2.6" decel="4.5"
+           maxSpeed="13.89" speedFactor="norm(1,0.1)"/>
+    <vType id="LUL" vClass="truck" guiShape="truck" color="green" minGap="2.5" accel="1.3" decel="4" maxSpeed="13.89"
+           speedFactor="norm(1,0.05)"/>
+    <vType id="BT" vClass="passenger" color="yellow" minGap="2.5" accel="2.6" decel="4.5" maxSpeed="13.89"
+           speedFactor="norm(1,0.05)"/>
+</routes>

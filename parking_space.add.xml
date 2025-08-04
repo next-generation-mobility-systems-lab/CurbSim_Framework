@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Parking Space -->
+    <parkingArea id="a11_il" lane="a11_0" startPos="77.21" endPos="82.21">
+        <space x="769.95" y="693.39"/>
+        <space x="776.99" y="693.42"/>
+        <space x="773.48" y="693.42"/>
+        <space x="780.53" y="693.40"/>
+        <space x="777.00" y="685.79"/>
+        <space x="773.51" y="685.81"/>
+        <space x="770.00" y="685.86"/>
+        <space x="780.52" y="685.79"/>
+    </parkingArea>
+    <parkingArea id="a12_il" lane="a12_0" startPos="77.34" endPos="82.34">
+        <space x="708.63" y="733.76"/>
+        <space x="712.15" y="733.84"/>
+        <space x="715.61" y="733.80"/>
+        <space x="719.14" y="733.82"/>
+        <space x="708.61" y="741.48"/>
+        <space x="712.10" y="741.59"/>
+        <space x="715.83" y="741.58"/>
+        <space x="719.46" y="741.26"/>
+    </parkingArea>
+    <parkingArea id="a13_il" lane="a13_0" startPos="77.71" endPos="82.71">
+        <space x="872.89" y="685.07"/>
+        <space x="883.34" y="685.17"/>
+        <space x="883.39" y="677.48"/>
+        <space x="879.86" y="685.10"/>
+        <space x="876.32" y="685.07"/>
+        <space x="872.97" y="677.50"/>
+        <space x="876.42" y="677.48"/>
+        <space x="879.98" y="677.45"/>
+    </parkingArea>
+    <parkingArea id="a14_il" lane="a14_0" startPos="77.56" endPos="82.56">
+        <space x="810.42" y="727.31"/>
+        <space x="813.87" y="727.35"/>
+        <space x="817.33" y="727.30"/>
+        <space x="820.83" y="727.29"/>
+        <space x="810.43" y="734.82"/>
+        <space x="813.89" y="734.87"/>
+        <space x="817.32" y="734.85"/>
+        <space x="820.81" y="734.79"/>
+    </parkingArea>
+    <parkingArea id="a17_il" lane="a17_0" startPos="75.11" endPos="80.10">
+        <space x="822.28" y="686.75"/>
+        <space x="811.92" y="694.24"/>
+        <space x="815.32" y="694.27"/>
+        <space x="818.74" y="694.28"/>
+        <space x="818.81" y="686.70"/>
+        <space x="811.93" y="686.73"/>
+        <space x="815.38" y="686.74"/>
+        <space x="822.14" y="694.30"/>
+    </parkingArea>
+    <parkingArea id="a18_il" lane="a18_0" startPos="75.06" endPos="80.06">
+        <space x="766.33" y="636.23"/>
+        <space x="762.89" y="636.21"/>
+        <space x="773.12" y="628.58"/>
+        <space x="769.70" y="628.59"/>
+        <space x="766.26" y="628.60"/>
+        <space x="762.90" y="628.60"/>
+        <space x="769.74" y="636.21"/>
+        <space x="773.19" y="636.23"/>
+    </parkingArea>
+    <parkingArea id="a7_il" lane="a7_0" startPos="77.46" endPos="82.46">
+        <space x="819.52" y="796.96"/>
+        <space x="823.04" y="796.97"/>
+        <space x="826.57" y="796.95"/>
+        <space x="830.14" y="796.91"/>
+        <space x="819.69" y="789.36"/>
+        <space x="826.74" y="789.27"/>
+        <space x="823.23" y="789.32"/>
+        <space x="830.27" y="789.36"/>
+    </parkingArea>
+    <parkingArea id="a8_il" lane="a8_0" startPos="77.53" endPos="82.53">
+        <space x="778.81" y="739.78"/>
+        <space x="782.51" y="731.86"/>
+        <space x="778.82" y="731.92"/>
+        <space x="775.11" y="731.99"/>
+        <space x="771.59" y="731.99"/>
+        <space x="775.08" y="739.62"/>
+        <space x="782.43" y="739.57"/>
+        <space x="771.60" y="739.72"/>
+    </parkingArea>
+    <parkingArea id="ap11_1" lane="a11_0" startPos="25.95" endPos="35.95">
+        <space x="740.00" y="695.00"/>
+    </parkingArea>
+    <parkingArea id="ap11_2" lane="a11_0" startPos="27.92" endPos="37.92">
+        <space x="743.94" y="695.00"/>
+    </parkingArea>
+    <parkingArea id="ap11_3" lane="a11_0" startPos="37.99" endPos="47.99">
+        <space x="747.78" y="695.00"/>
+    </parkingArea>
+    <parkingArea id="ap11_4" lane="a11_0" startPos="48.16" endPos="58.16">
+        <space x="751.73" y="695.00"/>
+    </parkingArea>
+    <parkingArea id="ap11_5" lane="a11_0" startPos="58.44" endPos="68.44">
+        <space x="755.31" y="695.00"/>
+    </parkingArea>
+    <parkingArea id="ap12_1" lane="a12_0" startPos="22.16" endPos="32.16">
+        <space x="756.14" y="731.08"/>
+    </parkingArea>
+    <parkingArea id="ap12_2" lane="a12_0" startPos="24.20" endPos="34.20">
+        <space x="752.47" y="731.00"/>
+    </parkingArea>
+    <parkingArea id="ap12_3" lane="a12_0" startPos="34.40" endPos="44.40">
+        <space x="748.73" y="731.00"/>
+    </parkingArea>
+    <parkingArea id="ap12_4" lane="a12_0" startPos="44.61" endPos="54.61">
+        <space x="745.18" y="731.00"/>
+    </parkingArea>
+    <parkingArea id="ap12_5" lane="a12_0" startPos="54.91" endPos="64.91">
+        <space x="741.60" y="731.00"/>
+    </parkingArea>
+    <parkingArea id="ap13_1" lane="a13_0" startPos="25.80" endPos="35.80">
+        <space x="837.29" y="688.00"/>
+    </parkingArea>
+    <parkingArea id="ap13_2" lane="a13_0" startPos="27.69" endPos="37.69">
+        <space x="841.28" y="688.00"/>
+    </parkingArea>
+    <parkingArea id="ap13_3" lane="a13_0" startPos="37.71" endPos="47.71">
+        <space x="845.09" y="688.00"/>
+    </parkingArea>
+    <parkingArea id="ap13_4" lane="a13_0" startPos="47.88" endPos="57.88">
+        <space x="849.25" y="688.00"/>
+    </parkingArea>
+    <parkingArea id="ap13_5" lane="a13_0" startPos="57.96" endPos="67.96">
+        <space x="853.41" y="688.00"/>
+    </parkingArea>
+    <parkingArea id="ap14_1" lane="a14_0" startPos="27.13" endPos="37.13">
+        <space x="855.47" y="722.00"/>
+    </parkingArea>
+    <parkingArea id="ap14_2" lane="a14_0" startPos="29.28" endPos="39.28">
+        <space x="851.47" y="722.00"/>
+    </parkingArea>
+    <parkingArea id="ap14_3" lane="a14_0" startPos="39.47" endPos="49.47">
+        <space x="847.82" y="722.00"/>
+    </parkingArea>
+    <parkingArea id="ap14_4" lane="a14_0" startPos="49.65" endPos="59.65">
+        <space x="843.99" y="722.00"/>
+    </parkingArea>
+    <parkingArea id="ap14_5" lane="a14_0" startPos="59.84" endPos="69.84">
+        <space x="840.24" y="722.00"/>
+    </parkingArea>
+    <parkingArea id="ap17_1" lane="a17_0" startPos="29.00" endPos="39.00">
+        <space x="808.59" y="657.00"/>
+    </parkingArea>
+    <parkingArea id="ap17_2" lane="a17_0" startPos="31.14" endPos="41.14">
+        <space x="812.37" y="657.00"/>
+    </parkingArea>
+    <parkingArea id="ap17_3" lane="a17_0" startPos="41.27" endPos="51.27">
+        <space x="816.33" y="657.00"/>
+    </parkingArea>
+    <parkingArea id="ap17_4" lane="a17_0" startPos="51.33" endPos="61.33">
+        <space x="820.18" y="657.00"/>
+    </parkingArea>
+    <parkingArea id="ap17_5" lane="a17_0" startPos="61.40" endPos="71.40">
+        <space x="824.10" y="657.00"/>
+    </parkingArea>
+    <parkingArea id="ap18_1" lane="a18_0" startPos="25.82" endPos="35.82">
+        <space x="778.15" y="661.00"/>
+    </parkingArea>
+    <parkingArea id="ap18_2" lane="a18_0" startPos="27.80" endPos="37.80">
+        <space x="774.32" y="661.00"/>
+    </parkingArea>
+    <parkingArea id="ap18_3" lane="a18_0" startPos="37.90" endPos="47.90">
+        <space x="770.73" y="661.00"/>
+    </parkingArea>
+    <parkingArea id="ap18_4" lane="a18_0" startPos="47.95" endPos="57.95">
+        <space x="766.81" y="661.00"/>
+    </parkingArea>
+    <parkingArea id="ap18_5" lane="a18_0" startPos="58.11" endPos="68.11">
+        <space x="763.01" y="661.00"/>
+    </parkingArea>
+    <parkingArea id="ap7_1" lane="a7_0" startPos="33.26" endPos="43.26">
+        <space x="814.79" y="760.00"/>
+    </parkingArea>
+    <parkingArea id="ap7_2" lane="a7_0" startPos="35.77" endPos="45.77">
+        <space x="818.66" y="760.00"/>
+    </parkingArea>
+    <parkingArea id="ap7_3" lane="a7_0" startPos="45.90" endPos="55.90">
+        <space x="822.65" y="760.00"/>
+    </parkingArea>
+    <parkingArea id="ap7_4" lane="a7_0" startPos="56.06" endPos="66.06">
+        <space x="826.44" y="760.00"/>
+    </parkingArea>
+    <parkingArea id="ap7_5" lane="a7_0" startPos="64.98" endPos="74.98">
+        <space x="830.47" y="760.00"/>
+    </parkingArea>
+    <parkingArea id="ap8_1" lane="a8_0" startPos="26.80" endPos="36.80">
+        <space x="789.19" y="764.00"/>
+    </parkingArea>
+    <parkingArea id="ap8_2" lane="a8_0" startPos="29.41" endPos="39.41">
+        <space x="785.09" y="764.00"/>
+    </parkingArea>
+    <parkingArea id="ap8_3" lane="a8_0" startPos="39.34" endPos="49.34">
+        <space x="781.37" y="764.00"/>
+    </parkingArea>
+    <parkingArea id="ap8_4" lane="a8_0" startPos="49.65" endPos="59.65">
+        <space x="777.73" y="764.00"/>
+    </parkingArea>
+    <parkingArea id="ap8_5" lane="a8_0" startPos="59.56" endPos="69.56">
+        <space x="773.73" y="764.00"/>
+    </parkingArea>
+    <parkingArea id="b11_il" lane="b11_0" startPos="77.53" endPos="82.53">
+        <space x="1521.74" y="838.91"/>
+        <space x="1511.34" y="846.50"/>
+        <space x="1514.82" y="846.50"/>
+        <space x="1521.73" y="846.47"/>
+        <space x="1511.36" y="838.93"/>
+        <space x="1518.28" y="846.47"/>
+        <space x="1514.84" y="838.95"/>
+        <space x="1518.28" y="838.90"/>
+    </parkingArea>
+    <parkingArea id="b12_il" lane="b12_0" startPos="77.68" endPos="82.69">
+        <space x="1442.85" y="887.42"/>
+        <space x="1442.81" y="895.04"/>
+        <space x="1446.33" y="895.05"/>
+        <space x="1449.83" y="895.09"/>
+        <space x="1453.33" y="895.02"/>
+        <space x="1446.39" y="887.48"/>
+        <space x="1449.89" y="887.52"/>
+        <space x="1453.32" y="887.43"/>
+    </parkingArea>
+    <parkingArea id="b13_il" lane="b13_0" startPos="67.31" endPos="72.31">
+        <space x="1609.44" y="837.29"/>
+        <space x="1619.79" y="844.99"/>
+        <space x="1612.91" y="844.94"/>
+        <space x="1616.32" y="844.97"/>
+        <space x="1619.79" y="837.35"/>
+        <space x="1616.35" y="837.43"/>
+        <space x="1612.94" y="837.37"/>
+        <space x="1609.46" y="844.90"/>
+    </parkingArea>
+    <parkingArea id="b14_il" lane="b14_0" startPos="67.56" endPos="72.56">
+        <space x="1549.19" y="892.71"/>
+        <space x="1552.62" y="892.76"/>
+        <space x="1556.09" y="892.74"/>
+        <space x="1559.53" y="892.73"/>
+        <space x="1549.21" y="885.15"/>
+        <space x="1552.69" y="885.22"/>
+        <space x="1556.17" y="885.24"/>
+        <space x="1559.62" y="885.32"/>
+    </parkingArea>
+    <parkingArea id="b17_il" lane="b17_0" startPos="68.73" endPos="73.73">
+        <space x="1566.71" y="838.83"/>
+        <space x="1559.82" y="838.87"/>
+        <space x="1556.34" y="838.88"/>
+        <space x="1563.27" y="838.83"/>
+        <space x="1556.34" y="846.43"/>
+        <space x="1559.78" y="846.41"/>
+        <space x="1563.25" y="846.33"/>
+        <space x="1566.70" y="846.35"/>
+    </parkingArea>
+    <parkingArea id="b18_il" lane="b18_0" startPos="68.86" endPos="73.86">
+        <space x="1522.47" y="790.23"/>
+        <space x="1519.02" y="790.21"/>
+        <space x="1512.01" y="790.23"/>
+        <space x="1515.52" y="782.63"/>
+        <space x="1522.54" y="782.62"/>
+        <space x="1519.04" y="782.61"/>
+        <space x="1512.01" y="782.64"/>
+        <space x="1515.49" y="790.20"/>
+    </parkingArea>
+    <parkingArea id="b7_il" lane="b7_0" startPos="76.15" endPos="81.15">
+        <space x="1552.86" y="950.66"/>
+        <space x="1552.81" y="958.15"/>
+        <space x="1559.65" y="950.77"/>
+        <space x="1559.68" y="958.17"/>
+        <space x="1556.23" y="958.16"/>
+        <space x="1556.24" y="950.74"/>
+        <space x="1563.12" y="958.21"/>
+        <space x="1563.12" y="950.73"/>
+    </parkingArea>
+    <parkingArea id="b8_il" lane="b8_0" startPos="75.96" endPos="80.96">
+        <space x="1515.80" y="883.95"/>
+        <space x="1505.47" y="883.96"/>
+        <space x="1512.37" y="891.50"/>
+        <space x="1505.49" y="891.48"/>
+        <space x="1508.93" y="891.50"/>
+        <space x="1515.80" y="891.46"/>
+        <space x="1508.91" y="883.96"/>
+        <space x="1512.39" y="883.98"/>
+    </parkingArea>
+    <parkingArea id="bp11_1" lane="b11_0" startPos="29.46" endPos="39.46">
+        <space x="1477.32" y="848.00"/>
+    </parkingArea>
+    <parkingArea id="bp11_2" lane="b11_0" startPos="32.02" endPos="42.02">
+        <space x="1481.21" y="848.00"/>
+    </parkingArea>
+    <parkingArea id="bp11_3" lane="b11_0" startPos="42.12" endPos="52.12">
+        <space x="1485.03" y="848.00"/>
+    </parkingArea>
+    <parkingArea id="bp11_4" lane="b11_0" startPos="52.26" endPos="62.26">
+        <space x="1488.77" y="848.00"/>
+    </parkingArea>
+    <parkingArea id="bp11_5" lane="b11_0" startPos="62.43" endPos="72.43">
+        <space x="1492.61" y="848.00"/>
+    </parkingArea>
+    <parkingArea id="bp12_1" lane="b12_0" startPos="29.48" endPos="39.48">
+        <space x="1491.36" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp12_2" lane="b12_0" startPos="32.29" endPos="42.29">
+        <space x="1487.81" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp12_3" lane="b12_0" startPos="42.27" endPos="52.27">
+        <space x="1484.10" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp12_4" lane="b12_0" startPos="52.39" endPos="62.39">
+        <space x="1480.51" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp12_5" lane="b12_0" startPos="62.51" endPos="72.51">
+        <space x="1477.02" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp13_1" lane="b13_0" startPos="23.40" endPos="33.40">
+        <space x="1578.71" y="851.00"/>
+    </parkingArea>
+    <parkingArea id="bp13_2" lane="b13_0" startPos="26.33" endPos="36.33">
+        <space x="1582.48" y="851.00"/>
+    </parkingArea>
+    <parkingArea id="bp13_3" lane="b13_0" startPos="31.19" endPos="41.19">
+        <space x="1586.05" y="851.00"/>
+    </parkingArea>
+    <parkingArea id="bp13_4" lane="b13_0" startPos="41.42" endPos="51.42">
+        <space x="1589.84" y="851.00"/>
+    </parkingArea>
+    <parkingArea id="bp13_5" lane="b13_0" startPos="51.69" endPos="61.69">
+        <space x="1594.15" y="851.00"/>
+    </parkingArea>
+    <parkingArea id="bp14_1" lane="b14_0" startPos="23.59" endPos="33.59">
+        <space x="1593.82" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp14_2" lane="b14_0" startPos="26.29" endPos="36.29">
+        <space x="1590.31" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp14_3" lane="b14_0" startPos="35.65" endPos="45.65">
+        <space x="1586.52" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp14_4" lane="b14_0" startPos="44.91" endPos="54.91">
+        <space x="1582.93" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp14_5" lane="b14_0" startPos="54.94" endPos="64.94">
+        <space x="1579.03" y="881.00"/>
+    </parkingArea>
+    <parkingArea id="bp17_1" lane="b17_0" startPos="23.17" endPos="33.17">
+        <space x="1552.09" y="814.00"/>
+    </parkingArea>
+    <parkingArea id="bp17_2" lane="b17_0" startPos="25.73" endPos="35.73">
+        <space x="1555.89" y="814.00"/>
+    </parkingArea>
+    <parkingArea id="bp17_3" lane="b17_0" startPos="35.27" endPos="45.27">
+        <space x="1559.57" y="814.00"/>
+    </parkingArea>
+    <parkingArea id="bp17_4" lane="b17_0" startPos="44.21" endPos="54.21">
+        <space x="1563.17" y="814.00"/>
+    </parkingArea>
+    <parkingArea id="bp17_5" lane="b17_0" startPos="52.77" endPos="62.77">
+        <space x="1566.77" y="814.00"/>
+    </parkingArea>
+    <parkingArea id="bp18_1" lane="b18_0" startPos="18.81" endPos="28.81">
+        <space x="1525.00" y="815.00"/>
+    </parkingArea>
+    <parkingArea id="bp18_2" lane="b18_0" startPos="22.33" endPos="32.33">
+        <space x="1521.29" y="815.00"/>
+    </parkingArea>
+    <parkingArea id="bp18_3" lane="b18_0" startPos="32.24" endPos="42.24">
+        <space x="1517.64" y="815.00"/>
+    </parkingArea>
+    <parkingArea id="bp18_4" lane="b18_0" startPos="42.26" endPos="52.26">
+        <space x="1513.91" y="815.00"/>
+    </parkingArea>
+    <parkingArea id="bp18_5" lane="b18_0" startPos="52.32" endPos="62.32">
+        <space x="1510.17" y="815.00"/>
+    </parkingArea>
+    <parkingArea id="bp7_1" lane="b7_0" startPos="27.27" endPos="37.27">
+        <space x="1550.03" y="914.00"/>
+    </parkingArea>
+    <parkingArea id="bp7_2" lane="b7_0" startPos="32.38" endPos="42.38">
+        <space x="1553.66" y="914.00"/>
+    </parkingArea>
+    <parkingArea id="bp7_3" lane="b7_0" startPos="42.51" endPos="52.51">
+        <space x="1557.12" y="914.00"/>
+    </parkingArea>
+    <parkingArea id="bp7_4" lane="b7_0" startPos="52.54" endPos="62.54">
+        <space x="1560.65" y="914.00"/>
+    </parkingArea>
+    <parkingArea id="bp7_5" lane="b7_0" startPos="62.32" endPos="72.32">
+        <space x="1564.11" y="914.00"/>
+    </parkingArea>
+    <parkingArea id="bp8_1" lane="b8_0" startPos="27.73" endPos="37.73">
+        <space x="1523.31" y="915.00"/>
+    </parkingArea>
+    <parkingArea id="bp8_2" lane="b8_0" startPos="30.85" endPos="40.85">
+        <space x="1519.79" y="915.00"/>
+    </parkingArea>
+    <parkingArea id="bp8_3" lane="b8_0" startPos="40.62" endPos="50.62">
+        <space x="1516.19" y="915.00"/>
+    </parkingArea>
+    <parkingArea id="bp8_4" lane="b8_0" startPos="49.62" endPos="59.62">
+        <space x="1512.46" y="915.00"/>
+    </parkingArea>
+    <parkingArea id="bp8_5" lane="b8_0" startPos="58.79" endPos="68.79">
+        <space x="1508.79" y="915.00"/>
+    </parkingArea>
+    <parkingArea id="c10_il" lane="c10_0" startPos="74.32" endPos="79.32">
+        <space x="889.62" y="926.03"/>
+        <space x="886.19" y="926.07"/>
+        <space x="882.73" y="926.02"/>
+        <space x="893.05" y="933.55"/>
+        <space x="889.61" y="933.55"/>
+        <space x="886.19" y="933.54"/>
+        <space x="882.75" y="933.55"/>
+        <space x="893.05" y="926.05"/>
+    </parkingArea>
+    <parkingArea id="c5_il" lane="c5_0" startPos="75.01" endPos="80.01">
+        <space x="734.17" y="1010.27"/>
+        <space x="741.13" y="1002.80"/>
+        <space x="737.69" y="1010.31"/>
+        <space x="741.18" y="1010.36"/>
+        <space x="744.65" y="1010.39"/>
+        <space x="737.70" y="1002.75"/>
+        <space x="744.62" y="1002.83"/>
+        <space x="734.14" y="1002.74"/>
+    </parkingArea>
+    <parkingArea id="c7_il" lane="c7_0" startPos="75.16" endPos="80.16">
+        <space x="837.39" y="1001.28"/>
+        <space x="833.98" y="1001.28"/>
+        <space x="833.98" y="993.73"/>
+        <space x="840.79" y="1001.27"/>
+        <space x="844.27" y="1001.29"/>
+        <space x="837.41" y="993.72"/>
+        <space x="840.91" y="993.68"/>
+        <space x="844.37" y="993.76"/>
+    </parkingArea>
+    <parkingArea id="c8_il" lane="c8_0" startPos="75.11" endPos="80.11">
+        <space x="784.13" y="930.95"/>
+        <space x="791.06" y="938.38"/>
+        <space x="794.49" y="938.33"/>
+        <space x="787.58" y="938.41"/>
+        <space x="784.10" y="938.41"/>
+        <space x="787.56" y="931.03"/>
+        <space x="791.11" y="930.95"/>
+        <space x="794.56" y="930.94"/>
+    </parkingArea>
+    <parkingArea id="cp10_1" lane="c10_0" startPos="24.45" endPos="34.45">
+        <space x="903.00" y="973.21"/>
+    </parkingArea>
+    <parkingArea id="cp10_2" lane="c10_0" startPos="26.79" endPos="36.79">
+        <space x="903.00" y="965.87"/>
+    </parkingArea>
+    <parkingArea id="cp10_3" lane="c10_0" startPos="36.86" endPos="46.86">
+        <space x="903.00" y="958.36"/>
+    </parkingArea>
+    <parkingArea id="cp10_4" lane="c10_0" startPos="47.02" endPos="57.02">
+        <space x="903.00" y="950.89"/>
+    </parkingArea>
+    <parkingArea id="cp10_5" lane="c10_0" startPos="57.17" endPos="67.17">
+        <space x="903.00" y="943.43"/>
+    </parkingArea>
+    <parkingArea id="cp5_1" lane="c5_0" startPos="30.98" endPos="40.98">
+        <space x="729.00" y="964.80"/>
+    </parkingArea>
+    <parkingArea id="cp5_2" lane="c5_0" startPos="33.64" endPos="43.64">
+        <space x="729.00" y="972.49"/>
+    </parkingArea>
+    <parkingArea id="cp5_3" lane="c5_0" startPos="43.83" endPos="53.83">
+        <space x="728.92" y="980.26"/>
+    </parkingArea>
+    <parkingArea id="cp5_4" lane="c5_0" startPos="54.04" endPos="64.04">
+        <space x="728.92" y="988.09"/>
+    </parkingArea>
+    <parkingArea id="cp5_5" lane="c5_0" startPos="64.12" endPos="74.12">
+        <space x="728.92" y="995.70"/>
+    </parkingArea>
+    <parkingArea id="cp7_1" lane="c7_0" startPos="23.09" endPos="33.09">
+        <space x="832.00" y="952.34"/>
+    </parkingArea>
+    <parkingArea id="cp7_2" lane="c7_0" startPos="25.76" endPos="35.76">
+        <space x="832.00" y="959.65"/>
+    </parkingArea>
+    <parkingArea id="cp7_3" lane="c7_0" startPos="35.88" endPos="45.88">
+        <space x="832.00" y="967.46"/>
+    </parkingArea>
+    <parkingArea id="cp7_4" lane="c7_0" startPos="46.11" endPos="56.11">
+        <space x="832.00" y="974.92"/>
+    </parkingArea>
+    <parkingArea id="cp7_5" lane="c7_0" startPos="56.17" endPos="66.17">
+        <space x="832.00" y="982.46"/>
+    </parkingArea>
+    <parkingArea id="cp8_1" lane="c8_0" startPos="26.80" endPos="36.80">
+        <space x="799.00" y="981.71"/>
+    </parkingArea>
+    <parkingArea id="cp8_2" lane="c8_0" startPos="28.86" endPos="38.86">
+        <space x="799.00" y="974.30"/>
+    </parkingArea>
+    <parkingArea id="cp8_3" lane="c8_0" startPos="39.02" endPos="49.02">
+        <space x="799.00" y="966.84"/>
+    </parkingArea>
+    <parkingArea id="cp8_4" lane="c8_0" startPos="49.13" endPos="59.13">
+        <space x="799.00" y="959.33"/>
+    </parkingArea>
+    <parkingArea id="cp8_5" lane="c8_0" startPos="59.28" endPos="69.28">
+        <space x="799.00" y="951.83"/>
+    </parkingArea>
+</additional>
