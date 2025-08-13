@@ -1,5 +1,5 @@
 # CurbSim_Framework
-> This repo is the implementation of the paper **[A Microsimulation Study of Curb Space Operational Strategies and User Behaviors](https://www.researchgate.net/publication/383426054_A_Microsimulation_Study_of_Curb_Space_Operational_Strategies_and_User_Behaviors)** _(Accepted in Transportation Research Part E)_.
+> This repo is the implementation of the paper **[A Microsimulation Study of Curb Space Operational Strategies and User Behaviors](https://www.sciencedirect.com/science/article/pii/S1366554525003874)** _(Transportation Research Part E, Volume 203, November 2025)_.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SUMO Version](https://img.shields.io/badge/SUMO-1.21.0-blue)](https://sumo.dlr.de)
@@ -57,8 +57,13 @@ python run_random.py        # Random allocation
 If you use this code in your research, please cite our paper:
 ```bibtex
 @article{zhao2025microsimulation,
-  title={A Microsimulation Study of Curb Space Operational Strategies and User Behaviors},
-  author={Zhao, Yuyang and Li, Chenhan and Lim, Jisoon and Masoud, Neda},
-  journal={Transportation Research Part E: Logistics and Transportation Review},
-  year={2025 (In press)}
+title = {A microsimulation study of curb space operational strategies and user behaviors},
+journal = {Transportation Research Part E: Logistics and Transportation Review},
+volume = {203},
+pages = {104346},
+year = {2025},
+issn = {1366-5545},
+doi = {https://doi.org/10.1016/j.tre.2025.104346},
+url = {https://www.sciencedirect.com/science/article/pii/S1366554525003874},
+author = {Yuyang Zhao and Chenhan Li and Jisoon Lim and Neda Masoud},
 }
